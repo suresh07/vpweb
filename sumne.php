@@ -1,6 +1,5 @@
 <?php
-	echo "this is to test";
-	echo "this is second line to testing";
-	echo "this is second line to testing";
-	echo "this is second line to testing";
+	echo "this is first line of testing";
+	echo "this is second line of testing";
+	echo "this is third line of testing";
 ?>
